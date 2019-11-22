@@ -616,7 +616,7 @@
                                         top: 18px;
                                     }
                                     h4 {
-                                        font-size: 15px;
+                                        font-size: 15px !important;
                                     }
                                     h5 {
                                         font-size: 15px;
